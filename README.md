@@ -17,7 +17,7 @@ It allows users to search for any city and view current weather conditions inclu
 
 ## 🗂️ Project Structure
 
-
+```
 WeatherApp/
 ├── public/ # Public assets & index.html
 ├── src/ # React source code
@@ -30,7 +30,7 @@ WeatherApp/
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
-
+```
 
 ---
 
